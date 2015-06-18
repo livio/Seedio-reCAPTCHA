@@ -1,0 +1,11 @@
+{
+  "name": "Seedio-recaptcha",
+  "version": "1.0.0",
+  "description": "Seedio helper library to handle Google's reCAPTCHA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Livio",
+  "license": "ISC"
+}
