@@ -1,5 +1,5 @@
 {
-  "name": "Seedio-recaptcha",
+  "name": "seedio-recaptcha",
   "version": "1.0.0",
   "description": "Seedio helper library to handle Google's reCAPTCHA.",
   "main": "index.js",
