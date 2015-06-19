@@ -2,10 +2,17 @@
   "name": "seedio-recaptcha",
   "version": "1.0.0",
   "description": "Seedio helper library to handle Google's reCAPTCHA.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/livio/seedio-recaptcha"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Livio",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.58.0"
+  }
 }
