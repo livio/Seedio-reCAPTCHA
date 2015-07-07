@@ -13,6 +13,8 @@
   "author": "Livio",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.3.0",
+    "i18next": "^1.10.2",
     "request": "^2.58.0"
   }
 }
